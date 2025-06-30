@@ -1,2 +1,2 @@
 # 3D-Global-Loading
-3D Global Loading Css animation 
+3D Animated Gallery with HTML, Css & Javascript
